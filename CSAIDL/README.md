@@ -1,4 +1,4 @@
-# Ex.No:1 Create a simple application client and server service using AIDL with a suitable example in android studio.
+# Ex.No:2 Create a simple application client and server service using AIDL with a suitable example in android studio.
 
 
 ## AIM:
